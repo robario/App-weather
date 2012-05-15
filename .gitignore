@@ -1,0 +1,10 @@
+/Build
+/MANIFEST
+/MANIFEST.SKIP.bak
+/MANIFEST.bak
+/MYMETA.json
+/MYMETA.yml
+/_build/
+/blib/
+/pod2htmd.tmp
+/pod2htmi.tmp
